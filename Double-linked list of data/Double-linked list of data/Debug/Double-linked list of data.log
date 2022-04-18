@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\Double-linked list of data\Double-linked list of data\Source.cpp(312,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\Double-linked list of data\Double-linked list of data\Source.cpp(207): warning C4715: List::LOCATE: значение возвращается не при всех путях выполнения
+C:\Users\User\Desktop\Double-linked list of data\Double-linked list of data\Source.cpp(191): warning C4715: List::RETRIEVE: значение возвращается не при всех путях выполнения
+  Double-linked list of data.vcxproj -> C:\Users\User\Desktop\Double-linked list of data\Debug\Double-linked list of data.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\Single-linked data  list\Single-linked data  list\Source.cpp(221,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\Single-linked data  list\Single-linked data  list\Source.cpp(154): warning C4715: List::LOCATE: значение возвращается не при всех путях выполнения
+C:\Users\User\Desktop\Single-linked data  list\Single-linked data  list\Source.cpp(138): warning C4715: List::RETRIEVE: значение возвращается не при всех путях выполнения
+  Single-linked data  list.vcxproj -> C:\Users\User\Desktop\Single-linked data  list\Debug\Single-linked data  list.exe
